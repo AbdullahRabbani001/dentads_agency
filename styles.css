@@ -4982,9 +4982,7 @@ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 /* Apply animations to hero elements */
-.hero-left {
-    animation: fadeInRight 0.8s ease-out;
-}
+
 
 .hero-headline {
     animation: fadeInUp 0.8s ease-out 0.2s both;
@@ -5027,4 +5025,5 @@ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 
             
             
+
  
